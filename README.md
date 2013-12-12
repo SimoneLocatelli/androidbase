@@ -1,7 +1,7 @@
 Android Base
 ===========
 
-Android Base is a library to simplify your life with Android Development!
+Android Base is a library that aims to simplify your life with Android Development!
 
 Include many features as:
   
@@ -13,8 +13,8 @@ Include many features as:
   - Many more...
 
 
-Android Base is developed Simone Locatelli, and support all Android devices from Android Gingerbread 2.3.6 (Api 9)
+Android Base is developed by Simone Locatelli, and support all Android devices starting from Android Gingerbread 2.3.6 (Api 9).
 
-Android Base is still in development, so there may be changes to the Api. 
+Android Base is still in development, so there may be changes to the Apis. 
 
 Stay tuned!
