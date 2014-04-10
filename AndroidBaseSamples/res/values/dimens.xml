@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="adapter_user_avatar">128dp</dimen>
+
+</resources>

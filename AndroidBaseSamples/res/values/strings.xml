@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="androidBaseSamplesAppName">Android Base Samples</string>
+
+    <!-- Titles -->
+    <string name="title_activity_home">HomeActivity</string>
+
+    <!-- Tags -->
+    <string name="tag_fragment_helloWorld">Hello World Fragment</string>
+    <string name="tag_fragment_bindingSample1">Binding Sample 1 Fragment</string>
+    <string name="tag_fragment_bindingSample2">Binding Sample 2 Fragment</string>
+
+    <!-- Entities -->
+    <string name="entity_user_firstName">Firstname</string>
+    <string name="entity_user_lastName">Lastname</string>
+    <string name="entity_user_age">Age</string>
+
+    <!-- Fragments -->
+    <!-- Home Master -->
+    <string name="fragment_homeMaster_listview_item_helloworld">Hello World</string>
+    <string name="fragment_homeMaster_listview_item_bindingEditText">Binding with EditText</string>
+    <string name="fragment_homeMaster_listview_item_bindingSpinner">Binding with Spinner</string>
+
+    <!-- Binding Sample 1 -->
+    <string name="fragment_bindingSample1_textView_header">Try to fill the form to test the binding</string>
+
+    <!-- Binding Sample 2 -->
+    <string name="fragment_bindingSample2_textView_header">People</string>
+
+</resources>

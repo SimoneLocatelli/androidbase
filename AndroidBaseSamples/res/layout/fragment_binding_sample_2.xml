@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/AB_LayoutStandardFillSpaced"
+    android:orientation="vertical" >
+
+    <com.androidbase.views.ABTextView
+        style="@style/AB_TextViewStandard"
+        android:text="@string/fragment_bindingSample2_textView_header" />
+
+    <com.androidbase.views.ABSpinner
+        android:id="@+id/fragment_bindingSample2_spinner_people"
+        style="@style/AB_SpinnerStandardFill" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="@dimen/ab_spacing_large"
+        android:layout_marginTop="@dimen/ab_spacing_large"
+        android:background="?android:attr/dividerHorizontal" />
+
+    <com.androidbase.views.ABTextView
+        style="@style/AB_TextViewStandard"
+        android:layout_marginTop="@dimen/ab_spacing_small"
+        android:text="@string/entity_user_firstName" />
+
+    <com.androidbase.views.ABTextView
+        android:id="@+id/fragment_bindingSample2_textView_firstName"
+        style="@style/AB_TextViewStandard" />
+
+    <com.androidbase.views.ABTextView
+        style="@style/AB_TextViewStandard"
+        android:layout_marginTop="@dimen/ab_spacing_small"
+        android:text="@string/entity_user_lastName" />
+
+    <com.androidbase.views.ABTextView
+        android:id="@+id/fragment_bindingSample2_textView_lastName"
+        style="@style/AB_TextViewStandard" />
+
+    <com.androidbase.views.ABTextView
+        style="@style/AB_TextViewStandard"
+        android:layout_marginTop="@dimen/ab_spacing_small"
+        android:text="@string/entity_user_age" />
+
+    <com.androidbase.views.ABTextView
+        android:id="@+id/fragment_bindingSample2_textView_age"
+        style="@style/AB_TextViewStandard" />
+
+    <Button
+        android:id="@+id/test"
+        style="@style/AB_ButtonStandard"
+        android:text="Show" />
+
+</LinearLayout>

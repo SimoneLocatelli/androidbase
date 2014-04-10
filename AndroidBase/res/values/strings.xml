@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="androidBaseAppName">Android Base</string>
+
+    <!-- Exceptions -->
+    <string name="ab_exceptions_activity_onCreate_cannotGetCalled">The method onCreate(Bundle) cannot be called. Use instead onCreate(Bundle, int, int)</string>
+    <string name="ab_exceptions_binding_bindingTypeNotSupportd">The invoked binding is not supported</string>
+    <string name="ab_exceptions_fragment_onCreateView_cannotGetCalled">The method onCreateView(LayoutInflater, ViewGroup, Bundle) cannot be called. Use instead onCreate(LayoutInflater, ViewGroup, Bundle, int, int)</string>
+
+</resources>

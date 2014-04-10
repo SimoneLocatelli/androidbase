@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/AB_LayoutStandard"
+    android:layout_height="@dimen/ab_item_medium" >
+
+    <com.androidbase.views.ABTextView
+        android:id="@+id/adapter_user_textView_header"
+        style="@style/AB_TextViewStandard"
+        android:layout_gravity="center_vertical" />
+
+</FrameLayout>

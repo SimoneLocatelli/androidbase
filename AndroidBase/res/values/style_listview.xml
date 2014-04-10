@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AB_ListViewStandard">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="AB_ListViewStandardMain" parent="@style/AB_ListViewStandard">
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+</resources>

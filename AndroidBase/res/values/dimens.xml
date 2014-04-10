@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Item -->
+    <dimen name="ab_item_micro">24dp</dimen>
+    <dimen name="ab_item_small">36dp</dimen>
+    <dimen name="ab_item_medium">48dp</dimen>
+    <dimen name="ab_item_large">64dp</dimen>
+
+    <!-- Font -->
+    <dimen name="ab_font_micro">12sp</dimen>
+    <dimen name="ab_font_small">14sp</dimen>
+    <dimen name="ab_font_medium">16sp</dimen>
+    <dimen name="ab_font_large">22sp</dimen>
+
+    <!-- Spacing -->
+    <dimen name="ab_spacing_micro">4dp</dimen>
+    <dimen name="ab_spacing_small">8dp</dimen>
+    <dimen name="ab_spacing_medium">16dp</dimen>
+    <dimen name="ab_spacing_large">32dp</dimen>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/AB_LayoutStandardFill" >
+
+    <FrameLayout
+        android:id="@+id/fragment_homeDetail_layout_container"
+        style="@style/AB_LayoutStandardFill" />
+
+</FrameLayout>

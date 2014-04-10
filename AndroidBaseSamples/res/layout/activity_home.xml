@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@id/ab_masterDetailActivity_singlePane_container"
+    style="@style/AB_LayoutStandardFill"
+    android:orientation="horizontal"
+    tools:context=".HomeActivity" >
+
+    <fragment
+        android:id="@+id/activity_home_fragment_master"
+        android:name="com.fragments.master.HomeMasterFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

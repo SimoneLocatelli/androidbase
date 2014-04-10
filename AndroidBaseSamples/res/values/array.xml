@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="home_menu_items">
+        <item>@string/fragment_homeMaster_listview_item_helloworld</item>
+        <item>@string/fragment_homeMaster_listview_item_bindingEditText</item>
+        <item>@string/fragment_homeMaster_listview_item_bindingSpinner</item>
+    </string-array>
+
+</resources>

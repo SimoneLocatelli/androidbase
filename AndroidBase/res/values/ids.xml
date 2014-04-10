@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="ab_masterDetailActivity_singlePane_container" type="id"/>
+    <item name="ab_masterDetailActivity_twoPane_listContainer" type="id"/>
+    <item name="ab_masterDetailActivity_twoPane_detailContainer" type="id"/>
+
+</resources>
